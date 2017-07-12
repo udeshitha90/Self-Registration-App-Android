@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/ashanudeshitha/.android/build-cache/2e8d34839e5c26e89dec0e9b9551a2392efc4736/output/res/color/switch_thumb_material_light.xml"
+    }
+]

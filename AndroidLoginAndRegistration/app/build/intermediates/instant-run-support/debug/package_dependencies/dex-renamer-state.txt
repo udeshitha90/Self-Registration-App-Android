@@ -1,0 +1,22 @@
+#Sun Jul 09 21:43:10 IST 2017
+renamed.6=classes2.dex
+renamed.5=classes5.dex
+renamed.4=classes.dex
+renamed.3=classes7.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes6.dex
+base.6=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_459e29bae3687987963accfcbb1b9b6d650140fa
+base.5=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dffce19f8e6fa1bac37c72e60fb57f078170cda8
+base.4=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15da7b10eb408ca120db273ae5fbca1327397b8f
+base.3=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_760de6f2338035338bfac4faa3694d6bea026dd0
+base.2=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5207400f2fd2be6ba30c26ac60af83155fdcd680
+base.1=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7bf9bf0ea3bf0eaa79bfa3d8d6a7ba1c471216b
+base.0=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_11e12f86c9a0309738ef18bf3f9004b8b4a812c1
+file.6=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_459e29bae3687987963accfcbb1b9b6d650140fa/classes.dex
+file.5=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dffce19f8e6fa1bac37c72e60fb57f078170cda8/classes.dex
+file.4=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15da7b10eb408ca120db273ae5fbca1327397b8f/classes.dex
+file.3=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_760de6f2338035338bfac4faa3694d6bea026dd0/classes.dex
+file.2=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5207400f2fd2be6ba30c26ac60af83155fdcd680/classes.dex
+file.1=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7bf9bf0ea3bf0eaa79bfa3d8d6a7ba1c471216b/classes.dex
+file.0=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_11e12f86c9a0309738ef18bf3f9004b8b4a812c1/classes.dex

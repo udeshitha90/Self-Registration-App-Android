@@ -1,0 +1,7 @@
+#Sun Jul 09 21:43:11 IST 2017
+base.0=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b5456c0c6e668e9c25936a8a7923c7d5dfb6ccb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_890edce7f28038fc7b113889bf24cc4e0b1a718d/classes.dex
+base.1=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_890edce7f28038fc7b113889bf24cc4e0b1a718d
+file.0=/Users/ashanudeshitha/Desktop/android test app/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b5456c0c6e668e9c25936a8a7923c7d5dfb6ccb/classes.dex
